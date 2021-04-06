@@ -11,10 +11,6 @@
 
 // Import partials here
 
-.navbar {
-  font-size: 1rem;
-}
-
 .navbar a:hover {
   text-decoration: underline;
 }
@@ -26,50 +22,19 @@
   font-family: 'New Tegomin', serif;
 }
 
-.img-fluid {
-  max-width: 50%;
-}
-
-.col-sm {
-  text-align: left;
-}
-
 
 footer {
   background-color: grey;
   text-align: center;
 }
 
-h1 {
-  font-size: 1rem;
-  font-family: 'Times New Roman', Times, serif;
-  margin: 0;
+.byline {
+  font-weight: bold;
+  margin-bottom: 2px;
+  font-size: 1.2rem;
 }
 
-h2 {
-  font-size: 1rem;
-  font-family: 'Times New Roman', Times, serif;
+.source {
   font-style: italic;
-  margin: 0;
-}
-
-h3 {
-  font-size: 3rem;
-  font-family: 'New Tegomin', serif;
-}
-
-h4 {
-  font-size: 2rem;
-  font-family: 'Roboto Condensed', sans-serif;
-}
-
- .col-sm {
-   border-right: 1px solid gray;
-   margin-right: 5rem;
-   padding: 0;
-   align-content: right;
- }
-
- .col {
-  align-content: center;
+  margin-top: 2px;
 }
